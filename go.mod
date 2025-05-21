@@ -61,6 +61,7 @@ require (
 	github.com/alibabacloud-go/tea-xml v1.1.3 // indirect
 	github.com/aliyun/alibaba-cloud-sdk-go v1.63.92 // indirect
 	github.com/aliyun/aliyun-odps-go-sdk/arrow v0.0.1 // indirect
+	github.com/aliyun/aliyun-pai-ab-go-sdk v1.0.1 // indirect
 	github.com/antlr4-go/antlr/v4 v4.13.0 // indirect
 	github.com/clbanning/mxj/v2 v2.5.5 // indirect
 	github.com/expr-lang/expr v1.16.9 // indirect
